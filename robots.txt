@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /legal.html
+Disallow: /confi.html
+Disallow: /legal_en.html
+Disallow: /confi_en.html
